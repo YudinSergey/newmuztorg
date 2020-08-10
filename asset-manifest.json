@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/newmuztorg/static/css/main.462726c1.chunk.css",
+    "main.js": "/newmuztorg/static/js/main.ed870252.chunk.js",
+    "main.js.map": "/newmuztorg/static/js/main.ed870252.chunk.js.map",
+    "runtime-main.js": "/newmuztorg/static/js/runtime-main.33e19fcf.js",
+    "runtime-main.js.map": "/newmuztorg/static/js/runtime-main.33e19fcf.js.map",
+    "static/js/2.13a56b28.chunk.js": "/newmuztorg/static/js/2.13a56b28.chunk.js",
+    "static/js/2.13a56b28.chunk.js.map": "/newmuztorg/static/js/2.13a56b28.chunk.js.map",
+    "index.html": "/newmuztorg/index.html",
+    "precache-manifest.7c94c88feb9af500e1c74c1ef32e8a4e.js": "/newmuztorg/precache-manifest.7c94c88feb9af500e1c74c1ef32e8a4e.js",
+    "service-worker.js": "/newmuztorg/service-worker.js",
+    "static/css/main.462726c1.chunk.css.map": "/newmuztorg/static/css/main.462726c1.chunk.css.map",
+    "static/js/2.13a56b28.chunk.js.LICENSE.txt": "/newmuztorg/static/js/2.13a56b28.chunk.js.LICENSE.txt",
+    "static/media/famous-musicians.css": "/newmuztorg/static/media/famousMusicians.d3b431f1.jpg",
+    "static/media/firstShare.jpg": "/newmuztorg/static/media/firstShare.b0f12905.jpg",
+    "static/media/logo.css": "/newmuztorg/static/media/logo_muztorg.43261a88.svg",
+    "static/media/muztorg-background.jpg": "/newmuztorg/static/media/muztorg-background.f4c7f213.jpg",
+    "static/media/muztorg-background2.jpg": "/newmuztorg/static/media/muztorg-background2.77856598.jpg",
+    "static/media/secondProduct.jpg": "/newmuztorg/static/media/secondProduct.9aad67a8.jpg",
+    "static/media/secondShare.jpg": "/newmuztorg/static/media/secondShare.2a841254.jpg",
+    "static/media/thirdProduct.jpg": "/newmuztorg/static/media/thirdProduct.88274993.jpg",
+    "static/media/thirdShare.jpg": "/newmuztorg/static/media/thirdShare.b8ebbff7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33e19fcf.js",
+    "static/js/2.13a56b28.chunk.js",
+    "static/css/main.462726c1.chunk.css",
+    "static/js/main.ed870252.chunk.js"
+  ]
+}
